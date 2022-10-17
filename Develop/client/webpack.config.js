@@ -27,7 +27,7 @@ module.exports = () => {
         inject: true,
         name: 'text-editor',
         short_name: 'JATE',
-        description: 'Just Another Text Editor!',
+        description: 'Text Editor',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: '/',
